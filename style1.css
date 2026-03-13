@@ -3,7 +3,18 @@ header{
     padding:20px;
     border-radius:15px 15px 0 0;
 }
-
+a{
+    color:white;
+    text-decoration:none;
+    width:100%;
+    padding:15px;
+    border:none;
+    border-radius:15px;
+    background:#8e9d2d;
+    color:white;
+    font-size:18px;
+    cursor:pointer;
+}
 .logo{
     background:#c9e52a;
     padding:10px 25px;
@@ -47,18 +58,7 @@ button{
     font-size:18px;
     cursor:pointer;
 }
-a{
-    color:white;
-    text-decoration:none;
-    width:100%;
-    padding:15px;
-    border:none;
-    border-radius:15px;
-    background:#8e9d2d;
-    color:white;
-    font-size:18px;
-    cursor:pointer;
-}
+
 /* футер */
 footer{
     background:#9cab2f;
@@ -75,3 +75,4 @@ footer{
     margin-bottom:10px;
 
 }
+
